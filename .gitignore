@@ -1,0 +1,5 @@
+/.venv
+/input_videos
+/runs
+/yolov8x.pt
+/yolov8x.pt.ebf21db72cf9481fa698cdbcbe815d94.partial
